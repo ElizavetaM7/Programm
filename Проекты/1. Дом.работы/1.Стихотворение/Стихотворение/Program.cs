@@ -8,7 +8,7 @@ namespace Стихотворение
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Ты и Вы");
-            Consolr.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Пустое вы сердечным ты");
             Console.WriteLine("Она, обмолвясь, заменила");
             Console.WriteLine("И все счастливые мечты");
